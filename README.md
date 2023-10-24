@@ -68,8 +68,8 @@ If everything went well, khDaysMM should now be in the `build` folder.
 2. Install dependencies: `brew install git pkg-config cmake sdl2 qt@6 libslirp libarchive zstd`
 3. Download the KHDays MM repository and prepare:
    ```zsh
-   git clone https://github.com/vitor251093/KHDays_FM
-   cd KHDays_FM
+   git clone https://github.com/theblondebandit/KHDays_FM_Mac
+   cd KHDays_FM_Mac
    ```
 4. Compile:
    ```zsh
